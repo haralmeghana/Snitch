@@ -1,0 +1,399 @@
+#Header ul{
+    display: flex;
+    justify-content: center;
+    letter-spacing: 3px;
+    list-style: none;
+    color: white;
+    background-color: black;
+    font-size: 12px;
+    gap: 5px;
+    padding: 13px 20px;
+    margin-top: -7px;  
+}
+#Section1{
+   align-items: center;
+   display: inline;
+   position: relative;
+   top: 50px;
+   height: 20px;  
+}
+#Section1 #ss{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#Section1 #ss div h2{
+    color: white;
+    letter-spacing: 6px;
+    margin-left: 10px
+}
+#Section1 #ss div #l{
+    margin-left: 129px;
+    background-color: transparent;
+    width: 30px;
+    height: 32px;
+} 
+#Section1 #ss .fa.fa-bars{
+    margin-left: 53px;
+    color: white;
+    font-size: 30px; 
+}
+#Section1 #ss #dd{
+    letter-spacing: 20px;
+    color: white;
+    margin-right: 50px;
+    font-size: 25px;
+}
+#Section1 #ss div{
+    display: flex;
+}
+#img{
+    margin-top: -64px;
+}
+#Section2{
+    margin-top: 15px;
+}
+.Section3 .xyz{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+    width: 100%;
+}
+.Section3 div img{
+    width: 337px;
+    height: 505px;
+}
+.Section3 h2{
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 400;
+}
+.Section3 #p{
+    margin-left: 50px;
+}
+.Section3 #pi{
+    margin-left: 50px;
+}
+.Section3 #p11{
+    margin-left: 50px;
+}
+.Section3 #lll ul {
+    margin-top: -13px;
+    list-style: none;
+    display: flex;
+    margin-left: 137px;
+    gap: 227px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.Section3 #ll2 ul {
+    margin-top: -13px;
+    list-style: none;
+    display: flex;
+    margin-left: 137px;
+    gap: 248px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.Section3 #lm ul  {
+    margin-top: -13px;
+    list-style: none;
+    display: flex;
+    margin-left: 114px;
+    gap: 210px;
+    font-size: 14px;
+    font-weight: 600;
+   }
+.Section3 div #mm ul {
+    width: 100%;
+    margin-top: -32px;
+    list-style: none;
+    display: flex;
+    margin-left: 176px;
+    gap: 317px;
+    font-size: 12px;
+    font-weight: 300;
+    font-weight: 600;
+}
+.Section3 div #m1 ul{
+    width: 100%;
+    margin-top: -32px;
+    list-style: none;
+    display: flex;
+    margin-left: 176px;
+    gap: 317px;
+    font-size: 12px;
+    font-weight: 300;
+    font-weight: 600;  
+}
+.Section3 div #m ul {
+    width: 100%;
+    margin-top: -32px;
+    list-style: none;
+    display: flex;
+    margin-left: 170px;
+    gap: 313px;
+    font-size: 12px;
+    font-weight: 300;
+    font-weight: 600;
+}
+.Section3 div .tt{
+    display: flex;
+    margin-top: -23px;
+}
+.Section3 .xyz div button{
+    margin-top: -23px;
+    border: 1px solid #e8e8e1;
+    letter-spacing: 2px;
+    margin-left: 9px;
+    padding: 5px 13px;
+    background-color: transparent;
+}
+.Section3 .xyz div .ss{
+    margin-left: 78px;
+}
+.Section3 .xyz div #ma{
+    display: flex;
+    gap: 25px;
+}
+.Section3 .xyz #di button{
+    margin-left: 49%;
+    margin-top: 61px;
+    padding: 11px 17px;
+    letter-spacing: 4px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
+.Section3 .xyz #fi button{
+    margin-left: 709px;
+    margin-top: 50px;
+    padding: 11px 17px;
+    letter-spacing: 4px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
+.Section3 #fr{
+    margin-left: 50px;
+}
+.Section3 div #ft ul{
+    width: 100%;
+    margin-top: -11px;
+    list-style: none;
+    display: flex;
+    margin-left: 133px;
+    gap: 237px;
+    font-size: 14px;
+    font-weight: 300;
+    font-weight: 600;
+}
+.Section3 div #ft ul li span{
+    margin-left: -57px;
+}
+.Section3 div #Er ul {
+    width: 100%;
+    margin-top: -33px;
+    list-style: none;
+    display: flex;
+    margin-left: 162px;
+    gap: 313px;
+    font-size: 12px;
+    font-weight: 300;
+    font-weight: 600;
+}
+.Section3 div #rg{
+    display: flex;
+    margin-left: 58px;
+    gap: 87px;
+    margin-top: -23px;
+}
+.Section3 #aaa ul{
+    list-style: none;
+    display: flex;
+    margin-left: 80px;
+    gap: 198px;
+    font-size: 14px;
+}
+#Section4 h2{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+#Section4 img{
+    margin-top: 83px;
+    width: 100%;
+    height: 100%;
+}
+/* #text h2{
+    margin-top: 70px;
+   display: flex;
+   justify-content: center;
+   font-weight: 400;
+   font-size: 28px;
+} */
+#Cards{
+    width: 80%;
+    letter-spacing: 10px;
+}
+#Section5{
+    margin-left: 25px;
+    display: flex; 
+}
+#Section5 .sh{
+    margin-left: -15px;
+}
+#Section5 img{
+    margin-left: 35px;
+    display: flex;
+    width: 265px;
+    height: 260px;
+    margin-top: 30px;
+}
+#Shark ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    list-style: none;
+}
+#Section61{
+    margin-top: 70px;
+}
+#Section61 img{
+    width: 100%;
+}
+#Section6 {
+    margin-top: 77px;
+}
+#Section6 img{
+    width: 100%;
+}
+#Section7{
+    margin-top: 80px;  
+    text-align: center; 
+}
+#Section7 h2{
+    font-weight: 300;  
+}
+#Section7 button{
+    background-color: white;
+    border: 1px solid #ebebe5;
+    margin-top: 10px;
+    padding: 9px 12px;
+    letter-spacing: 2px;
+}
+#Perfume{
+    display: flex;  
+    margin-top: 50px; 
+}
+#Perfume #k1{
+    margin-left: 53px;
+}
+#Perfume img{
+    width: 338px;
+    height: 453px;
+    margin-left: 16px;
+}
+#Perfume #lo ul{
+    margin-top: 7px;
+    list-style: none;
+    display: flex;
+    margin-left: 155px;
+    gap: 308px;
+    font-size: 13px;
+    font-weight: 400;
+}
+#Perfume #ph ul{
+    width: 100%;
+    margin-top: -14px;
+    list-style: none;
+    display: flex;
+    margin-left: 157px;
+    gap: 318px;
+    font-size: 12px;
+    font-weight: 300;
+    font-weight: 400;
+}
+#Perfume button{
+    margin-left: 176px;
+    margin-top: -9px;
+    gap: 135px;
+    border: 1px solid #e8e8e1;
+    padding: 7px 13px;
+    background-color: transparent;
+}
+#Perfume #ff .mj{
+    margin-left: 289px;
+}
+#Limage{
+    text-align: center;
+}
+#Limage img{
+    width: 93%;
+    margin-top: 25px;
+}
+#Limage span{
+    margin-top: 50px;
+
+}
+#Section8{
+    margin-top: 122px;
+    width: 103%;
+}
+#Section8 img{
+    width: 776px;
+    height: 612px;
+}
+#Section9 div img{
+    width: 100%;
+    margin-top: 12px;
+}
+#Section10 .aa{
+    margin-left: 50px;
+}
+#Section10 h2{
+    margin-top: 83px;
+    text-align: center;
+    font-weight: 400;
+}
+#Section10 ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+#Section10 img{
+    width: 262px;
+    height: 265px;
+    margin-left: 23px;
+    margin-top: 50px; 
+}
+#Section11 h2{
+    margin-top: 110px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+}
+#Section11 .fa.fa-star{
+    color: yellow;
+}
+#Section11 #star .fa.fa-star{
+   
+}
+#Section12 {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 20px 50px 20px;
+    font-size: 12px;
+    font-weight: 400;
+}
+#Section13{
+    display: flex;
+    justify-content: center; 
+    font-size: 30px;  
+}
